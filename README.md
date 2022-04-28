@@ -11,6 +11,8 @@ I am Senior Software Engineer with extensive experience designing, coding, imple
 *   ✉️  You can contact me at [emartsoft@gmail.com](mailto:emartsoft@gmail.com)
 *   🧠  I'm learning Machine Learning on Azure
 *   🤝  I'm open to collaborating on Flutter projects
+
+<p align="left">
 <a href="https://www.twitter.com/MartinMaiyo" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/MartinMaiyo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
